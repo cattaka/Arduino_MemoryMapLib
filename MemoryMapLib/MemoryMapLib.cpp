@@ -16,7 +16,7 @@
 #include "testlibs.h"
 #else
 //#include "SoftwareSerial.h"
-#include "WProgram.h"
+#include "Arduino.h"
 #endif
 
 #include "MemoryMapLib.h"

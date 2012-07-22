@@ -13,7 +13,7 @@
 #include "AndroidAccessory.h"
 #include "CommunicationStream.h"
 #include "BufferedStream.h"
-#include "WProgram.h"
+#include "Arduino.h"
 
 class AndroidAccessoryStream : public CommunicationStream
 {

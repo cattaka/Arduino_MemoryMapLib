@@ -2,7 +2,7 @@
 #define __MemoryMap_h__
 
 #ifndef PC_DEBUG
-#include "WProgram.h"
+#include "Arduino.h"
 #else
 #include "testlibs.h"
 #endif

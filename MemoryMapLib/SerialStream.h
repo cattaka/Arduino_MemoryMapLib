@@ -8,7 +8,7 @@
 
 //#include "testlibs.h"
 #include "CommunicationStream.h"
-#include "WProgram.h"
+#include "Arduino.h"
 
 class SerialStream : public CommunicationStream
 {

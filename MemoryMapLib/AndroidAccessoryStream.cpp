@@ -12,7 +12,7 @@
 //#include "Max3421e.h"
 //#include "Usb.h"
 #include "AndroidAccessory.h"
-#include "WProgram.h"
+#include "Arduino.h"
 
 unsigned char buffer[128];
 BufferedStream aBufferedStream((void*)buffer,sizeof(buffer));
